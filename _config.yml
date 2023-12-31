@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Deepak
-organization: 
-organization_url: 
+author: deepakdubeygi@gmail.com
+organization: gopal-blog
+organization_url: https://github.com/gopal-blog/
 github_username: gopalmani
 location: Delhi, India
-email: gopalmanidubey@gmail.com
+email: deepakdubeygi@gmail.com
 
 # ---------------- #
 #    Navigation    #
