@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: https://gopal-blog.github.io
+baseurl: /gopal-blog.github.io
+url: https://github.com/gopal-blog
 date_format: "ordinal"
 title: दीपक (Gopal) दुबे ·(Deepak's Blog)
 subtitle: "Blog website for Computer Science"
