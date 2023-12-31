@@ -69,7 +69,7 @@ plugins:
     - jemoji
     - jekyll-seo-tag
 
-repository: gopalmani/gopalmani.github.io
+repository: https://github.com/gopal-blog/gopal-blog.github.io/
 
 # ---------------- #
 #      Comments    #
