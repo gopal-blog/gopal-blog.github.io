@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: /gopal-blog.github.io
-url: https://raw.githubusercontent.com/gopal-blog/gopal-blog.github.io/main
+baseurl:
+url: https://github.com/gopal-blog/gopal-blog.github.io
 date_format: "ordinal"
 title: दीपक (Gopal) दुबे ·(Deepak's Blog)
 subtitle: "Blog website for Computer Science"
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: deepakdubeygi@gmail.com
-organization: gopal-blog
-organization_url: https://github.com/gopal-blog/
+author: Deepak
+organization: 
+organization_url: 
 github_username: gopalmani
 location: Delhi, India
-email: deepakdubeygi@gmail.com
+email: gopalmanidubey@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -69,7 +69,7 @@ plugins:
     - jemoji
     - jekyll-seo-tag
 
-repository: https://github.com/gopal-blog/gopal-blog.github.io/
+repository: gopalmani/gopalmani.github.io
 
 # ---------------- #
 #      Comments    #
