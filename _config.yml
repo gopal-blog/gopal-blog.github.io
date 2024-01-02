@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://github.com/gopal-blog/gopal-blog.github.io/tree/main
+url: https://gopal-blog.github.io/
 date_format: "ordinal"
 title: दीपक (Gopal) दुबे ·(Deepak's Blog)
 subtitle: "Blog website for Computer Science"
@@ -82,7 +82,7 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: gopalmani
-    repo: gopalmani.github.io
+    repo: https://gopal-blog.github.io/
     oauth:
         clientID: b3ff6fcdc7b2e34fd0c4
         clientSecret: 9dd38c6ce3586ec5d3d1cb415f6d532aec31388b
