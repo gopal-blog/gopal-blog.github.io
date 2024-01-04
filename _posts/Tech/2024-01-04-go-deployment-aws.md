@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Kadane's Algorithm
+title: AstroMatch AWS Deployment of Backend services in GO
 categories: Tech-Post Algorithm
-description: Kadane's Algorithm
-keywords: Algorithm, Data Structure, Kadane's, Leetcode, DSA
+description: Go Services Deployment 
+keywords: AWS, GO, Backend, Servers, Deployments
 ---
 
 # Deploying AWS service to AWS ec2 instances
