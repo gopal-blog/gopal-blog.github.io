@@ -1,5 +1,3 @@
-# Repository Files Navigation
-
 ## README
 
 This repository contains the source code and content for a personal blog website built with Jekyll. If you are interested in exploring or contributing to this project, this README will help you navigate through the files and understand the structure of the repository.
