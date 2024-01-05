@@ -4,7 +4,8 @@ This repository contains the source code and content for a personal blog website
 
 ## About
 
-The blog website, hosted at [gopal-blog.github.io](https://gopal-blog.github.io), is a platform where various topics related to Python, Jekyll, Golang, LeetCode, technology, and data structures & algorithms (DSA) are discussed. It serves as a space to share insights, tutorials, and experiences in these domains.
+The blog website, hosted at [gopal-blog.github.io](https://gopal-blog.github.io), is a platform where I write about the latest technologies I am learning. The topics cover a range of subjects including Python, Go, AWS Deployment, and the exploration of new futuristic projects. These projects include a music app, a dating site, and a local tourism site. The blog serves as a space to share insights, tutorials, and experiences in these domains as I delve into the exciting world of technology and innovation.
+
 
 ## Repository Contents
 
