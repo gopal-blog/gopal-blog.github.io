@@ -10,3 +10,9 @@ keywords: AWS, GO, Backend, Servers, Deployments
 
 
 -----------------------------IN PROGRESSSSSSSSS-------------------------
+
+Steps to be followed : 
+> Install Docker on machine
+> Create a Docker file
+> run docker run
+> and hit the URL 
