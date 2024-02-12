@@ -1,3 +1,13 @@
+---
+layout: post
+title: Leetcode 169
+categories: Tech-Post Leetcode
+description: Leetcode Solution in python
+keywords: Algorithm, Data Structure, Leetcode, DSA, Python
+---
+
+# 169. Majority Element
+
 ## Problem Statement :
 
 Given an array nums of size n, return the majority element.
