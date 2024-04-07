@@ -46,6 +46,5 @@ If you are interested in contributing to this project, feel free to fork the rep
 - Tech
 - Technology
 - DSA (Data Structures and Algorithms)
-- DSA Algorithm
 
 Thank you for your interest in this project! If you have any questions or feedback, please don't hesitate to reach out.
