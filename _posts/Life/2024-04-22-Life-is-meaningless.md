@@ -1,6 +1,6 @@
 # Life is meaningless. 
 
-<img width="1385" height="200" alt="Screenshot 2024-04-22 at 10 48 52" src="https://github.com/gopal-blog/gopal-blog.github.io/assets/45264570/bbd62d41-9637-4954-acd9-30462df95920">
+<img width="1385" height="500" alt="Screenshot 2024-04-22 at 10 48 52" src="https://github.com/gopal-blog/gopal-blog.github.io/assets/45264570/bbd62d41-9637-4954-acd9-30462df95920">
 
 
 - A very common term I've used right? And there's a lot of analysis based on it as well. 
