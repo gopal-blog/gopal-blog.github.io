@@ -23,12 +23,12 @@
 
 Ok, this was more like a theoretical answer, but we don't only focus on Philosophical Questions rather we find an optimal & practical approach to these.
 
-### Stoicism 
+## Stoicism 
   Is good for short term or quick decisions based on the notion. 
   You're stuck in traffic. 
   Rather than getting frustrated, you could use the time to listen to some music or a audiobooks, ted-talks.
 
-### Nihilism 
+## Nihilism 
   Is good for non competitive social dynamics. 
   You break up with a partner who doesn't share your values. 
   Now you'll seek opportunity to find someone better who actually leans with your ideas & understands your circumstances.
