@@ -9,9 +9,17 @@
 ## But how do the philosophical perspectives respond to the statement's rationality?
 
 •Stoicism: Even if forgotten, a virtuous life holds intrinsic value. Focus on what you can control and find meaning in the present moment.
+
+
 •Nihilism: Embrace the lack of inherent meaning and create your own through your unique experiences and actions.
+
+
 •Existentialism: Take responsibility for defining your purpose and create meaning through your choices and connections.
+
+
 •Absurdism: Accept the absurdity of a meaningless universe and find joy in living authentically despite the inevitable.
+
+
 
 Ok, this was more like a theoretical answer, but we don't only focus on Philosophical Questions rather we find an optimal & practical approach to these.
 
