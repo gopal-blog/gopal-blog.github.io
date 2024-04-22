@@ -1,6 +1,6 @@
 # Life is meaningless. 
 
-<img width="385" alt="Screenshot 2024-04-22 at 10 48 52" src="https://github.com/gopal-blog/gopal-blog.github.io/assets/45264570/bbd62d41-9637-4954-acd9-30462df95920">
+<img width="1385" alt="Screenshot 2024-04-22 at 10 48 52" src="https://github.com/gopal-blog/gopal-blog.github.io/assets/45264570/bbd62d41-9637-4954-acd9-30462df95920">
 
 
 - A very common term I've used right? And there's a lot of analysis based on it as well. 
@@ -15,17 +15,18 @@
 
 Ok, this was more like a theoretical answer, but we don't only focus on Philosophical Questions rather we find an optimal & practical approach to these.
 
-Stoicism is good for short term or quick decisions based on the notion. 
-You're stuck in traffic. 
-Rather than getting frustrated, you could use the time to listen to some music or a calming audiobook.
+### Stoicism 
+  Is good for short term or quick decisions based on the notion. 
+  You're stuck in traffic. 
+  Rather than getting frustrated, you could use the time to listen to some music or a audiobooks, ted-talks.
 
 ### Nihilism 
-  is good for non competitive social dynamics. 
+  Is good for non competitive social dynamics. 
   You break up with a partner who doesn't share your values. 
   Now you'll seek opportunity to find someone better who actually leans with your ideas & understands your circumstances.
 
 ## Existentialism 
-  is the most practical for capitalistic/competitive society. 
+  Is the most practical for capitalistic/competitive society. 
   Suppose you do something which barely pays you. 
   You know that in the vast spectrum of suffering what you're doing might be insignificant, but it is what it is. 
   You accept the truth & make your job your purpose.
