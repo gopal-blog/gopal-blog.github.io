@@ -1,4 +1,4 @@
-# My Dream house to build 卐 | This L-Shaped House Design Captures Refreshing Breeze
+# 卐 My Dream house to build| This L-Shaped House Design Captures Refreshing Breeze
 
 
 
@@ -10,7 +10,7 @@ Total Post Views :- <ins>3159</ins>
 Nestled this modern [residence](https://thearchitectsdiary.com/?s=+residence) spans over a 10,881 sq. ft. corner plot, seamlessly integrating form, function, and tranquility. The house is thoughtfully planned in an L-shaped configuration of this house design, with its entry oriented to the east and a lush garden strategically placed in the southwest corner to capture optimal sunlight and the refreshing southwesterly breeze.  
   
 **Editor’s Note:** “This modern L-shaped residence redefines luxury and sustainability. Its open-plan design dissolves barriers between indoor and outdoor spaces with expansive verandahs, terraces, and double-height spaces that are timeless yet modern. The use of granite, combined with textured finishes and aluminum panels while providing strength to the structure is grounded in local tradition.  
-![L-shaped-house-design-28.jpg](Attachments/L-shaped-house-design-28.jpg)  
+![L-shaped house]({{ site.baseurl }}/assets/images/L-shaped-house-design-28.jpg)  
 Central to the design is the striking 23’x17’ verandah and its mirrored balcony above, which connect the home’s key spaces, such as the [living room](https://thearchitectsdiary.com/?s=+living+room+), [dining](https://thearchitectsdiary.com/?s=+DINING) area, [kitchen](https://thearchitectsdiary.com/?s=+kitchen), and [bedrooms](https://thearchitectsdiary.com/?s=+bedroom) with large sliding doors that offer uninterrupted views of the garden. Additionally, these transitional spaces serve as the heart of the house. Thus, fostering family gatherings and an intimate connection with nature.   
 ![L-shaped house]({{ site.baseurl }}/assets/images/L-shaped-house-design-29.jpg)  
 ## **Exterior**  
