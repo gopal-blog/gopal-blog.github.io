@@ -4,7 +4,7 @@
 
   
   
-![L-shaped-house-design-2-1024x682.jpg](Attachments/L-shaped-house-design-2-1024x682.jpg)  
+![L-shaped house]({{ site.baseurl }}/assets/images/L-shaped-house-design-2-1024x682.jpg)
 Posted On June 2025  
 Total Post Views :- <ins>3159</ins>  
 Nestled this modern [residence](https://thearchitectsdiary.com/?s=+residence) spans over a 10,881 sq. ft. corner plot, seamlessly integrating form, function, and tranquility. The house is thoughtfully planned in an L-shaped configuration of this house design, with its entry oriented to the east and a lush garden strategically placed in the southwest corner to capture optimal sunlight and the refreshing southwesterly breeze.  
